@@ -122,7 +122,7 @@ Visit http://localhost:3000/api/random_greeting in your browser.
 
 - GitHub: [@mohisa302](https://github.com/mohisa302)
 - Twitter: [@Kholochelam](https://twitter.com/Kholochelam)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/mohadese-sadeghi-692551199/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohadese-sadeghi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
