@@ -14,6 +14,7 @@
     - [Open API documentation](#open-api-documentation)
     - [Usage](#usage-1)
   - [👥 Authors ](#-authors-)
+  - [🙏 Acknowledgements](#acknowledgements)
   - [🤝 Contributing ](#-contributing-)
   - [Show your support ](#show-your-support-)
   - [📝 License ](#-license-)
@@ -127,6 +128,12 @@ Visit http://localhost:3000/api/random_greeting in your browser.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
